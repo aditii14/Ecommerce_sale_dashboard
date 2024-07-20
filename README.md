@@ -11,7 +11,9 @@ Ecommerce_Sales_Dashboard.pbix: The Power BI dashboard file.
 
 Data: A files containing the Excel files used as data sources for the dashboard
 
-https://github.com/user-attachments/assets/9712904c-76f6-4f46-a05d-afe04c852812
+https://github.com/user-attachments/assets/b0be2426-fb2d-43e6-8d3e-1a861d573d72
+
+
 
 Contact:
 
